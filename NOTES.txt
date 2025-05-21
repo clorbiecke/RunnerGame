@@ -1,0 +1,7 @@
+For uploading to itch.io:
+    You can upload your Pygame game to itch.io by packaging it properly. Here’s how:
+    - Make Your Game Executable – Use PyInstaller or cx_Freeze to convert your Python script into an executable file.
+    - Bundle Your Files – Gather your game’s assets (images, sounds, etc.) and place them in a folder alongside the executable.
+    - Compress the Folder – Zip the folder containing your game files.
+    - Upload to itch.io – Go to itch.io, create a new project, and upload your zipped game files.
+    - Set It Up – Configure the game’s settings, including title, description, and visibility.
